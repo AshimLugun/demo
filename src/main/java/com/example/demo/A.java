@@ -14,6 +14,8 @@ public class A {
         map.entrySet().stream()
                 .forEach(entry -> System.out.println(entry.getKey() + " => " + entry.getValue()));
 
+        System.out.println("ashim");
+
     }
         }
 
